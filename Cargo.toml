@@ -1,0 +1,7 @@
+[package]
+name = "neomerge"
+version = "0.0.1"
+authors = ["smt923 <smtea923@gmail.com>"]
+
+[dependencies]
+regex = "0.2"
