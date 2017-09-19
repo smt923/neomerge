@@ -18,7 +18,7 @@ Another benefit is that mods can be commented out with a `#` like so:
 ```
 #FieldsofDead = FoD
 ```
-After running neomerge once again, this will automatically exclude any lines that begin with a # from being added to `getmods.php`, thus allowing you to easily temporarily disable mods.
+After running neomerge once again, this will automatically exclude any lines that begin with a # from being added to `getmods.php`, thus allowing you to easily temporarily disable mods (As well as nicely seperate groups of mods).
 
 ## Backups of getmods.php
 
