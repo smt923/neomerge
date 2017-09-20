@@ -1,6 +1,8 @@
 # neomerge
 A helper tool to merge and manage multiple NEO Scavenger mods with a simple configuration file
 
+[Downloads here](https://github.com/smt923/neomerge/releases)
+
 ## Usage
 Drag the executable into NEO Scavenger's install directory, running once will generate a config file (`mods.cfg`) based on the contents of `getmods.php`, running it again will make a backup of `getmods.php`, read the mods from `mods.cfg` and then overwrite `getmods.php` with the newly generated list - I recommend creating your OWN backup of `getmods.php` before running neomerge, see below
 
